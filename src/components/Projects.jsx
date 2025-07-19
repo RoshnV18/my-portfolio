@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: 4,
       src: Project4,
-      href: "https://github.com/RoshnV18/Portfolio",
+      href: "https://github.com/RoshnV18/my-portfolio",
     },
   ];
 
